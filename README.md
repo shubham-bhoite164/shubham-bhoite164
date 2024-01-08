@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 - 🌱 I’m currently learning **Advanced Analytics Tools**
-- 💬 Ask me about **Python & SQL**
+- 💬 Ask me about **Python, SQL & PowerBi**
 - 📫 How to reach me **shubhambhoite164@gmail.com**
 - ⚡ Fun fact **Dogs are Better Than Cats LOL**
 
