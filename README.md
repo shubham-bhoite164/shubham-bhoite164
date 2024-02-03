@@ -3,10 +3,10 @@
 <h3 align="center">A Passionate Analyst From India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
-- 🌱 I’m currently learning **Advanced Analytics Tools**
-- 💬 Ask me about **Python, SQL & PowerBi**
-- 📫 How to reach me **shubhambhoite164@gmail.com**
-- ⚡ Fun fact **Dogs are Better Than Cats LOL**
+- 🌱 I’m currently - learning **Advanced Analytics Tools**
+- 💬 Ask me about - **Python, SQL & PowerBi**
+- 📫 How to reach me - **shubhambhoite164@gmail.com**
+- ⚡ Fun fact - **In the 1960s, the CIA explored the possibility of using trained cats as covert agents. The plan, called "Acoustic Kitty," involved surgically implanting microphones and transmitters into cats and training them to eavesdrop on conversations from unsuspecting targets. However, the project was abandoned after the first mission ended with the unfortunate demise of the test cat, who was hit by a taxi shortly after being released near its target.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
