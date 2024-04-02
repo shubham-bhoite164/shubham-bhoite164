@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQEErOX5aEl4eg/profile-displaybackgroundimage-shrink_350_1400/0/1697829525743?e=1709769600&v=beta&t=IqMoQgiBWq2pzzMO_HYaAgo_ZvMm0HOaGdN4LI6D0DQ)
+![MasterHead](https://github.com/shubham-bhoite164/shubham-bhoite164/blob/main/1697829525743.jpg)
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A Passionate Analyst From India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
